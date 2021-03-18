@@ -17,4 +17,4 @@ spec:
       - name: podinfo
         image: quay.io/stefanprodan/podinfo:3.0.0
         ports:
-        - containerPort: 2000
+        - containerPort: 3000
